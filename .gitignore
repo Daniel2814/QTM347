@@ -1,4 +1,3 @@
 # Large data files
 tcga.csv
-LECTURES/MODULE_10_NLP/YELP_tm_freq.csv
-LECTURES/MODULE_10_NLP/yelp_subset.csv
+yelp_subset.csv
