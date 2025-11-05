@@ -1,3 +1,4 @@
 # Large data file
 tcga.csv
-YELP_tm_freq.csv
+YELP_tm_freq.csvLECTURES/MODULE_10_NLP/YELP_tm_freq.csv
+LECTURES/MODULE_10_NLP/yelp_subset.csv # optional to avoid 75MB warning
